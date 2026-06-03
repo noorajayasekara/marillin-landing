@@ -1,0 +1,7 @@
+# Beroenden och byggcache för Vite-källan i app/
+app/node_modules/
+app/dist/
+
+# Lokala env-overrides
+app/.env.local
+.DS_Store
