@@ -244,7 +244,7 @@ function ExampleCarousel() {
 
 const CONTEXT_ROWS = [
   ['Ett informationslandskap i ständig rörelse', 'Börsbolag förväntas navigera rätt i omfattande regelmassa, från MAR, Listing Act och ABL till börsens regelverk. Informationsmängden är stor och förändringstakten hög, vilket ställer krav på ständig uppdatering och kvalificerade bedömningar.'],
-  ['Behovet av dokumentation', 'Bolag behöver göra genomtänkta, konsekventa och väldokumenterade bedömningar, oavsett om det rör sig om insiderinformation eller inte. En tydlig struktur och spårbarhet minskar risken för tillsynsåtgärder och stärker förtroendet på aktiemarknaden.'],
+  ['Behovet av dokumentation', 'Bolag behöver göra genomtänkta, konsekventa och väldokumenterade bedömningar, oavsett om det rör sig om insiderinformation eller inte. En tydlig struktur och spårbarhet minskar risken för sanktioner vid tillsyn och stärker förtroendet på aktiemarknaden.'],
   ['Snabba beslut i komplexa situationer', 'Beslut behöver ofta fattas snabbt under tidspress, utan tid för extern rådgivning. Då krävs ett tydligt och strukturerat arbetssätt.'],
 ];
 
