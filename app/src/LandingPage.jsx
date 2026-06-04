@@ -263,7 +263,7 @@ const TEAM = [
   },
   {
     name: 'Amanda Bergerståhl',
-    linkedin: 'https://www.linkedin.com/in/amanda-bergerstahl-41362217/',
+    linkedin: 'https://www.linkedin.com/in/amanda-bergerst%C3%A5hl-41362217/',
     bio: 'Jurist och styrelseledamot med omfattande praktisk erfarenhet av arbete med informationsgivning och andra legala frågor i börsmiljö. Ansvarar för Marillins regelbibliotek.',
   },
   {
