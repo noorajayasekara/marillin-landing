@@ -168,8 +168,8 @@ const scenarios = [
     id: '01',
     label: 'Förvärv',
     scenario: 'Vi ska skriva på ett LOI för att eventuellt förvärva ett bolag med en omsättning om 1,4 mdr SEK. Hur ska vi hantera informationsgivningen?',
-    bedomning: 'Baserat på offentliggjord information om ert bolag uppfyller händelsen sannolikt kriterierna för insiderinformation. Informationen hanteras som ett mellanliggande steg inom ramen för en pågående process.',
-    refs: ['MAR Art. 7', 'Listing Act', 'ESMA Guideline'],
+    bedomning: 'Ett LOI som är icke-bindande bör betraktas som ett mellanliggande steg i en över tiden pågående process. Insiderinformation som hänför sig till ett sådant mellanliggande steg behöver inte offentliggöras förrän det bindande avtalet undertecknas, förutsatt att informationen då utgör insiderinformation.',
+    refs: ['MAR Art. 7', 'MAR Art. 17.1', 'Listing Act'],
     bidrag: 'Marillin formulerar och dokumenterar bedömningen. Vid tidpunkten för offentliggörande tar Marillin fram pressmeddelande i er tone of voice som säkerställer regelefterlevnad och marknadspraxis.',
   },
   {
@@ -185,7 +185,7 @@ const scenarios = [
     label: 'Distributionsavtal',
     scenario: 'Vi ska skriva distributionsavtal med den största distributören i Europa. Det är jättestor potential i avtalet men det finns ingen garanti för att det ska generera några intäkter. Hur ska vi hantera informationsgivningen?',
     bedomning: 'Potentialen beskrivs med uppskattningar om långsiktiga framtida intäkter vilka behöver nyanseras med tydliga reservationer beträffande uppskattningarnas karaktär. Om inga åtaganden regleras behöver det anges. Generella beskrivningar om försäljningsstrukturer i branschen kan ge mervärde. Baserat på offentliggjord information om ert bolag, och var ni befinner er i er tillväxtresa, uppfyller händelsen sannolikt kriterierna för insiderinformation. Informationen hanteras som en slutlig händelse med omedelbart offentliggörande.',
-    refs: ['MAR Art. 7', 'Börsens regelverk'],
+    refs: ['Disciplinärende 2026:12', 'Disciplinärende 2020:03', 'MAR Art. 7', 'Börsens regelverk'],
     bidrag: 'Marillin hjälper er att utforma ett pressmeddelande som ger en fullständig och korrekt bedömning av informationens betydelse.',
   },
 ];
